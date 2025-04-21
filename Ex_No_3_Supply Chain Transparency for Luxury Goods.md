@@ -57,6 +57,11 @@ Ownership is transferred at every checkpoint.
 
 Buyers can check the authenticity before purchasing.
 
+![Screenshot 2025-04-21 142937](https://github.com/user-attachments/assets/545cebbf-7297-442f-b83a-24663e3c9113)
+
+![Screenshot 2025-04-21 142836](https://github.com/user-attachments/assets/ba60e565-70c9-4120-b21b-ef91776b3f9b)
+
+![Screenshot 2025-04-21 142808](https://github.com/user-attachments/assets/687c13d0-bda5-4c8a-abfd-c5853f569c69)
 
 # High-Level Overview:
 Helps prevent counterfeit luxury goods.
@@ -66,3 +71,4 @@ Teaches real-world supply chain use cases.
 
 # RESULT : 
 
+Thus, the execution of the suplly chain Transpanrency for Luxury Goods has executed successfully.
