@@ -30,6 +30,12 @@ return certificates[certHash];
 }
 ```
 # Expected Output:
+
+![Screenshot 2025-04-21 085551](https://github.com/user-attachments/assets/82f7e7ee-1975-40ba-8516-59a4f9a6f9fa)
+
+![Screenshot 2025-04-21 085453](https://github.com/user-attachments/assets/03656506-f39b-496f-851a-1d9143624e63)
+
+
 ```
 ● When the university issues a certificate, it gets stored as a hash.
 ● A student or employer can verify the certificate by entering the details.
@@ -41,3 +47,4 @@ High-Level Overview:
 ```
 # Result:
 
+The smart contract was successfully implemented to issue and verify academic certificates on Ethereum, ensuring authenticity and preventing forgery.
