@@ -1,20 +1,19 @@
 # Experiment 6: Blockchain-Based Passwordless Authentication (Using Public-Private Key Cryptography)
+## Name:Lokesh N
+## Reg no:212222100023
+
+
+
 # Aim:
 To implement a secure passwordless authentication system using public-private key cryptography on Ethereum. This prevents phishing and password leaks.
 
 # Algorithm:
-Step 1: User Registration
+Step 1: 
+User Registration
 A user registers with their Ethereum public key (instead of a password).
-
-
 Step 2: Login Process
 When logging in, the user signs a random challenge message using their private key.
-
-
 The smart contract verifies the signature using the user’s public key.
-
-
-
 # Program:
 ```
 // SPDX-License-Identifier: MIT
@@ -42,22 +41,26 @@ contract PasswordlessAuth {
 
 # Expected Output:
 Users can register without a password.
+![Screenshot 2025-04-28 144659](https://github.com/user-attachments/assets/9d77f1ec-88ab-4fae-881e-3adb3c032e47)
+
 
 
 Users sign a challenge with their private key for authentication.
+![image](https://github.com/user-attachments/assets/62c8063d-5df3-4047-ac17-3502684ceb15)
+
 
 
 The smart contract verifies signatures to confirm identity.
 
+![image](https://github.com/user-attachments/assets/040a7994-294e-42a4-99d5-3539df8cbfc2)
 
+
+![image](https://github.com/user-attachments/assets/46eabb1c-6456-42a5-b9c5-ac4abc63921c)
 
 # High-Level Overview:
 Eliminates password hacks & phishing attacks.
-
-
 Uses Ethereum's built-in cryptographic functions.
-
-
 Inspired by Web3 login solutions like MetaMask authentication.
 
 # RESULT: 
+Thus,Blockchain-Based Passwordless Authentication (Using Public-Private Key Cryptography) has been created and successfully executed.
